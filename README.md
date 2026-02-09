@@ -1,5 +1,3 @@
-<img width="685" height="276" alt="Screenshot from 2026-02-09 08-42-17" src="https://github.com/user-attachments/assets/c2024ca0-3e32-4263-b16e-ee6a11135406" /># Linux-Process-API-fork-wait-exec-
-Ex02-Linux Process API-fork(), wait(), exec()
 # Ex02-OS-Linux-Process API - fork(), wait(), exec()
 Operating systems Lab exercise
 
@@ -44,7 +42,8 @@ int main() {
     return 0;
 }
 ```
-##OUTPUT
+## OUTPUT
+
 <img width="433" height="142" alt="Screenshot from 2026-02-09 08-40-46" src="https://github.com/user-attachments/assets/16d243c9-f7e9-4f7c-836a-73716e0938ed" />
 
 ## C Program to execute Linux system commands using Linux API system calls exec() , exit() , wait() family
@@ -91,7 +90,8 @@ int main() {
 }
 ```
 
-##OUTPUT
+## OUTPUT
+
 <img width="685" height="276" alt="Screenshot from 2026-02-09 08-42-17" src="https://github.com/user-attachments/assets/a1d9a54b-f142-4a04-9397-e24de71aeafd" />
 
 # RESULT:
